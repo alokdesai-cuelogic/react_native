@@ -1,0 +1,3 @@
+rootProject.name = 'platform_apis'
+
+include ':app'
